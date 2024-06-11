@@ -7,5 +7,6 @@ Features
 4.Cloud Integration: Sync your photos with cloud storage for easy access and backup.
 5.High-Resolution Support: View and share your photos in stunning high resolution.
 
-git clone https://github.com/AlphaCodeHub/SnapGallery.git
+````sh
+git clone https://github.com/AlphaCodeHub/SnapGallery
 cd SnapGallery
